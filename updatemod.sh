@@ -1,6 +1,6 @@
 #!/bin/sh
-# Lara Maia © 2012 ~ 2013 <lara@craft.net.br>
-# Mod by BlackXT <blackice@craft.net.br>
+# Lara Maia © 2012 ~ 2013 <dev@lara.click>
+# Mod by Acidhub <contact@acidhub.click>
 # Version: 0.2
 
 test $(id -u) == 0 && echo "EPA" && exit 1
